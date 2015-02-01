@@ -1,2 +1,2 @@
-Realtime chat with Meteor 
-[http://chatrfk.meteor.com/
+[Demo here](http://chatrfk.meteor.com/)
+Realtime chat with Meteor
